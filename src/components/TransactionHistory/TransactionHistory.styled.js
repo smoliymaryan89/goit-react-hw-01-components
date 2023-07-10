@@ -1,8 +1,7 @@
 import styled from 'styled-components';
 
 export const Table = styled.table`
-  margin: 0 auto;
-
+  margin: 0 auto 50px;
   width: 500px;
   box-shadow: 1px 6px 18px 1px rgba(111, 80, 80, 0.75);
 
